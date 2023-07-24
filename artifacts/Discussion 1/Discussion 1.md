@@ -24,7 +24,7 @@ The three most common reasons for a project failure are as follows.
         </p> 
     </div>  
     <div class="image-section">    
-        <img src="static/no skill.jpg" width="275" height="auto" align="right">
+        <img src="static/no skill.jpg" width="275"/>
     </div> 
 </div>
 
@@ -35,7 +35,7 @@ The three most common reasons for a project failure are as follows.
         </p> 
     </div>  
     <div class="image-section">    
-        <img src="static/project-late-underestimated.jpg" width="275" height="auto" align="right">
+        <img src="static/project-late-underestimated.jpg" width="275"/>
     </div> 
 </div>
 
@@ -46,7 +46,7 @@ The three most common reasons for a project failure are as follows.
         </p> 
     </div>  
     <div class="image-section">    
-        <img src="static/Software-Testing.jpg" width="275" height="auto" align="right">
+        <img src="static/Software-Testing.jpg" width="275"/>
     </div> 
 </div>
 
@@ -57,7 +57,7 @@ The three most common reasons for a project failure are as follows.
         </p> 
     </div>  
     <div class="image-section">    
-        <img src="static/737.jpg" width="275" height="auto" align="right">
+        <img src="static/737.jpg" width="275"/>
     </div> 
 </div>
 
@@ -69,7 +69,7 @@ The three most common reasons for a project failure are as follows.
         </p> 
     </div>  
     <div class="image-section">    
-        <img src="static/missle.jpg" width="275" height="auto" align="right">
+        <img src="static/missle.jpg" width="275"/>
     </div> 
 </div>
 
