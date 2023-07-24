@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  height: auto;
+}
+
+.text-section {
+  flex: 1;
+  padding: 10px;
+}
+
+.image-section {
+  flex: 1;
+  padding: 10px;
+}
+
+.image-section img {
+  max-height: 100%;
+  max-width: 100%;
+  display: block;
+}
