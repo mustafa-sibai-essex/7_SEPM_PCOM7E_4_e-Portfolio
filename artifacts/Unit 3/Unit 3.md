@@ -8,14 +8,14 @@ Instructions: Read Dicheva & Hodge (2018). Think about an online system which yo
 
 Below are two common systems used on daily bases on the web and how they would work internally in a data structure<br>
 
-<div class="container" >  
-    <div class="text-section" align="left"> 
+<div class="container">  
+    <div class="text-section"> 
 <p>
 <b>User Data Management:</b><br>
 User data, such as usernames, email addresses, and passwords, would be stored in a database, likely using a hash table or a balanced binary search tree for efficient lookup and retrieval.
 </p> 
     </div>  
-    <div class="image-section" align="right">    
+    <div class="image-section">    
         <img src="static/user.jpg" width="275"/>
     </div> 
 </div>
