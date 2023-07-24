@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="../../style.css">
 
 ## Question
 COLLABORATIVE DISCUSSION 1 (INITIAL POST): PROJECT FAILURES STUDY (UNIT 1)
